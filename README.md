@@ -38,6 +38,12 @@ This project automates contract analysis, risk assessment, and legal Q&A** using
 3. **Risk assessment** is performed to classify risks and suggest mitigation.
 4. **Fine-tuned chatbot** provides real-time answers for legal Q&A.
 
+## ✨ Future Enhancements
+
+Add support for multiple legal jurisdictions.
+Improve chatbot accuracy with more fine-tuned legal datasets.
+Implement contract comparison for risk benchmarking.
+
 ## 🔧 Setup & Installation
  1️⃣ Install dependencies:
 ```bash
@@ -45,8 +51,4 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-## ✨ Future Enhancements
 
-Add support for multiple legal jurisdictions.
-Improve chatbot accuracy with more fine-tuned legal datasets.
-Implement contract comparison for risk benchmarking.
