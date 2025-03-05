@@ -31,6 +31,7 @@ This project automates contract analysis, risk assessment, and legal Q&A** using
 ┗ 📂 models/ # Fine-tuned LLMs (if applicable)
 
 
+
 ## 🎯 How It Works
 1. **Upload a contract (PDF)**
 2. **AI extracts key clauses** and presents them in a structured format.
@@ -38,14 +39,13 @@ This project automates contract analysis, risk assessment, and legal Q&A** using
 4. **Fine-tuned chatbot** provides real-time answers for legal Q&A.
 
 ## 🔧 Setup & Installation
-### 1️⃣ Install dependencies:
+ 1️⃣ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
 streamlit run app.py
 
-
-###  ✨ Future Enhancements
+## ✨ Future Enhancements
 
 Add support for multiple legal jurisdictions.
 Improve chatbot accuracy with more fine-tuned legal datasets.
