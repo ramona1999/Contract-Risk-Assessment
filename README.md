@@ -44,7 +44,8 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-✨ Future Enhancements
+
+###  ✨ Future Enhancements
 
 Add support for multiple legal jurisdictions.
 Improve chatbot accuracy with more fine-tuned legal datasets.
