@@ -23,15 +23,6 @@ This project automates contract analysis, risk assessment, and legal Q&A** using
 - **Streamlit** (Interactive UI)
 - **Unsloth** (Optimized fine-tuned LLM deployment)
 
-## 📂 Project Structure
-📦 contract-risk-analysis
-┣ 📜 app.py         # Main Streamlit app
-┣ 📜 requirements.txt  # Dependencies
-┣ 📜 README.md      # Project documentation
-┗ 📂 models/        # Fine-tuned LLMs (if applicable)
-
-
-
 
 ## 🎯 How It Works
 1. **Upload a contract (PDF)**
